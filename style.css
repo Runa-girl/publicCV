@@ -26,6 +26,7 @@ td {
     padding: 5px;
 }
 .content {
+    width: 1170px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -33,7 +34,7 @@ td {
 header {
     position: fixed;
     top: 0;
-    width: 75%;
+    width: 1170px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -47,7 +48,6 @@ header {
     width: 300px;
 }
 .about {
-    width: 75%;
     padding: 0em 0em 2em 0em;
     background-color: #437E9A;
     color: #262B3A;
@@ -58,7 +58,6 @@ header {
     
 }
 .experience {
-    width: 75%;
     display: flex;
     flex-direction: row;
 }
@@ -73,7 +72,7 @@ header {
     padding-bottom: 2em; 
 }
 .other {
-    width: 75%;
+    width: 1170px;
     background-color: #414656;
     color: #A6ABBD;
     padding: 2em 0em;
